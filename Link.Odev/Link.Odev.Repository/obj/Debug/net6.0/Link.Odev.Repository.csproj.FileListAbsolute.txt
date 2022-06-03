@@ -1,0 +1,17 @@
+C:\Users\Burak\Desktop\Projeler\Link.Odev\Link.Odev.Repository\bin\Debug\net6.0\Link.Odev.Repository.deps.json
+C:\Users\Burak\Desktop\Projeler\Link.Odev\Link.Odev.Repository\bin\Debug\net6.0\Link.Odev.Repository.runtimeconfig.json
+C:\Users\Burak\Desktop\Projeler\Link.Odev\Link.Odev.Repository\bin\Debug\net6.0\Link.Odev.Repository.dll
+C:\Users\Burak\Desktop\Projeler\Link.Odev\Link.Odev.Repository\bin\Debug\net6.0\Link.Odev.Repository.pdb
+C:\Users\Burak\Desktop\Projeler\Link.Odev\Link.Odev.Repository\bin\Debug\net6.0\Link.Odev.Core.dll
+C:\Users\Burak\Desktop\Projeler\Link.Odev\Link.Odev.Repository\bin\Debug\net6.0\Link.Odev.Core.pdb
+C:\Users\Burak\Desktop\Projeler\Link.Odev\Link.Odev.Repository\obj\Debug\net6.0\Link.Odev.Repository.csproj.AssemblyReference.cache
+C:\Users\Burak\Desktop\Projeler\Link.Odev\Link.Odev.Repository\obj\Debug\net6.0\Link.Odev.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak\Desktop\Projeler\Link.Odev\Link.Odev.Repository\obj\Debug\net6.0\Link.Odev.Repository.AssemblyInfoInputs.cache
+C:\Users\Burak\Desktop\Projeler\Link.Odev\Link.Odev.Repository\obj\Debug\net6.0\Link.Odev.Repository.AssemblyInfo.cs
+C:\Users\Burak\Desktop\Projeler\Link.Odev\Link.Odev.Repository\obj\Debug\net6.0\Link.Odev.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Burak\Desktop\Projeler\Link.Odev\Link.Odev.Repository\obj\Debug\net6.0\Link.Odev.Repository.csproj.CopyComplete
+C:\Users\Burak\Desktop\Projeler\Link.Odev\Link.Odev.Repository\obj\Debug\net6.0\Link.Odev.Repository.dll
+C:\Users\Burak\Desktop\Projeler\Link.Odev\Link.Odev.Repository\obj\Debug\net6.0\refint\Link.Odev.Repository.dll
+C:\Users\Burak\Desktop\Projeler\Link.Odev\Link.Odev.Repository\obj\Debug\net6.0\Link.Odev.Repository.pdb
+C:\Users\Burak\Desktop\Projeler\Link.Odev\Link.Odev.Repository\obj\Debug\net6.0\Link.Odev.Repository.genruntimeconfig.cache
+C:\Users\Burak\Desktop\Projeler\Link.Odev\Link.Odev.Repository\obj\Debug\net6.0\ref\Link.Odev.Repository.dll

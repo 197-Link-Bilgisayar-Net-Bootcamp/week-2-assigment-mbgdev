@@ -1,0 +1,12 @@
+C:\Users\Burak\Desktop\Projeler\Link.Odev\Link.Odev.Core\bin\Debug\net6.0\Link.Odev.Core.deps.json
+C:\Users\Burak\Desktop\Projeler\Link.Odev\Link.Odev.Core\bin\Debug\net6.0\Link.Odev.Core.dll
+C:\Users\Burak\Desktop\Projeler\Link.Odev\Link.Odev.Core\bin\Debug\net6.0\Link.Odev.Core.pdb
+C:\Users\Burak\Desktop\Projeler\Link.Odev\Link.Odev.Core\obj\Debug\net6.0\Link.Odev.Core.csproj.AssemblyReference.cache
+C:\Users\Burak\Desktop\Projeler\Link.Odev\Link.Odev.Core\obj\Debug\net6.0\Link.Odev.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak\Desktop\Projeler\Link.Odev\Link.Odev.Core\obj\Debug\net6.0\Link.Odev.Core.AssemblyInfoInputs.cache
+C:\Users\Burak\Desktop\Projeler\Link.Odev\Link.Odev.Core\obj\Debug\net6.0\Link.Odev.Core.AssemblyInfo.cs
+C:\Users\Burak\Desktop\Projeler\Link.Odev\Link.Odev.Core\obj\Debug\net6.0\Link.Odev.Core.csproj.CoreCompileInputs.cache
+C:\Users\Burak\Desktop\Projeler\Link.Odev\Link.Odev.Core\obj\Debug\net6.0\Link.Odev.Core.dll
+C:\Users\Burak\Desktop\Projeler\Link.Odev\Link.Odev.Core\obj\Debug\net6.0\refint\Link.Odev.Core.dll
+C:\Users\Burak\Desktop\Projeler\Link.Odev\Link.Odev.Core\obj\Debug\net6.0\Link.Odev.Core.pdb
+C:\Users\Burak\Desktop\Projeler\Link.Odev\Link.Odev.Core\obj\Debug\net6.0\ref\Link.Odev.Core.dll
